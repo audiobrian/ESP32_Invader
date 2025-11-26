@@ -1,19 +1,22 @@
 # LED Invader
 
-Beim scrollen durch Insta Reels bin ich auf [RGB Guardian](https://www.instagram.com/reel/DQ_fSutEYsu/?igsh=bms2OGk2cmZ0Z3o4) gestoßen. Ich fand die Idee so genial das ich es auf meine Art nachbauen musste...
+![Cover](https://res.cloudinary.com/hcka3dy7c/image/upload/f_auto,q_auto,w_1200/v1/media/blog/uploads/cover_mom80c)
 
-Verwendete Materialien:
-- Holzplatte 120*30 cm
-- 60 stk WS2812 RGB LEDS 60/m
-- RP2040 zero
-- SSD1306 Display
-- PAM8302 + Mini Lautsprecher
-- 3 Stück ARCADE Buttons 60mm Kuppelförmig
-- 3D druckteile (Makerworld)
+While scrolling through Instagram Reels, I came across the RGB Guardian￼. I found the idea so brilliant that I had to recreate it in my own way…
 
-Schaltplan:
+Materials used:
+- Wooden board 120×30 cm
+- 60 pcs WS2812 RGB LEDs 60/m
+- RP2040 Zero
+- SSD1306 display
+- PAM8302 + mini speaker
+- 3 arcade buttons, 60 mm dome-shaped
+- 3D printed parts (Makerworld)
+
+Wiring diagram:
 ![LED Invader](https://res.cloudinary.com/hcka3dy7c/image/upload/f_auto,q_auto,w_1200/v1/media/blog/uploads/LED_Invader_kbw9vy)
 
 
 Code:
 via CircuitePython Version 10.0.3
+
