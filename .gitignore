@@ -1,0 +1,20 @@
+# PlatformIO
+.pio/
+.vscode/
+*.tmp
+*.bak
+
+# IDE
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# WiFi configuration with credentials
+include/wifi_config.h
+
+# But keep the template
+!include/wifi_config.h.template

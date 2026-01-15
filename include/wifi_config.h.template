@@ -1,0 +1,19 @@
+# wifi_config.h - WiFi Configuration
+# Copy this template to wifi_config.h and fill in your WiFi credentials
+
+#ifndef WIFI_CONFIG_H
+#define WIFI_CONFIG_H
+
+// WiFi Configuration
+// Fill in your WiFi network details
+#define WIFI_SSID "XXXXXX"
+#define WIFI_PASSWORD "XXXXXX"
+
+// Web Security (optional)
+// Set ENABLE_WEB_AUTH to true to require authentication
+// Set to false to allow open access (default)
+#define ENABLE_WEB_AUTH false
+#define WEB_USERNAME "admin"
+#define WEB_PASSWORD "invaders"
+
+#endif
